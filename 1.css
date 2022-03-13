@@ -1,0 +1,36 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.text_div1{
+	font-family: Ropa Sans;
+	
+	font-size: 50px;
+	background: #DD3232;
+	padding: 20px;
+	border-radius: 20px;
+	border: 3px solid #000;
+}
+.text_div2{
+	font-family: Ropa Sans;
+	background-color: forestgreen;	
+	font-size: 50px;
+		border-radius: 20px;
+	border: 3px solid #000;
+	letter-spacing: 0.09px;
+}
+
+.container{
+	box-sizing: border-box;
+	width: 100%;
+	background: #25253D;
+	color: white;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	flex: wrap;
+	text-align: center;
+	justify-content: space-around;
+}
