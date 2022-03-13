@@ -1,0 +1,36 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: #e6e6e6;
+}
+.back{
+	position: absolute;
+	background-color: white;
+	width: 70%;
+	height: 100%;
+	left: 15%;
+
+}
+h1{
+	border: #e6e6e6 1px solid;
+	font-size: 20px;
+	text-align: center;
+	text-shadow: 1px 1px 0px gray;
+}
+.main1{
+	position: absolute;
+	left: 5%;
+	width: 90%;
+	height: 90%;
+	outline: #e6e6e6 3px solid;
+	top: 10%;
+	text-align: center;
+
+
+}
+
+a{
+	text-decoration: none;
+}
